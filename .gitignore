@@ -4,3 +4,6 @@ testenv/
 mcqgenrator.egg-info
 default_packages.txt
 machinelearning.csv
+src/__pycache__/__init__.cpython-39.pyc
+src/mcqgenerator/__pycache__/__init__.cpython-39.pyc
+src/mcqgenerator/__pycache__/logger.cpython-39.pyc
