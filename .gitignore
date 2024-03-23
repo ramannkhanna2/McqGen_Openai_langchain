@@ -1,4 +1,5 @@
 env
 .env
-venv/
+testenv/
 mcqgenrator.egg-info
+default_packages.txt
